@@ -1,0 +1,10 @@
+# ignore node_modules folder
+node_modules/
+
+
+# Ignore file named '.env'
+.env
+
+# ignore uploads folder
+uploads/
+
